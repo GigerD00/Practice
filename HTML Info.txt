@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 1 Assignment</title>
+    <link rel="stylesheet" type="text/css" href="[file name].css" <---Ties css file to html file
+</head>
+<body>
+    Week 1 Assignment
+
+    
+<script src="index.js"></script>  <--Ties js file to html
+</body>
+</html>
+________________________________________________________________________________________________________________
+Git Process
+1. git init
+2. git remote add origin [URL of your repository]
+3. git status
+4. git add . 
+5. git commit -m "[Name of Commit]"
+6. git branch -M master
+7. git push -u origin master
+________________________________________________________________________________________________________________
